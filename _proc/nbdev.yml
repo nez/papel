@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "papel"
+  site-url: "https://nez.github.io/papel"
+  description: "Utilities for paper consumption"
+  repo-branch: main
+  repo-url: "https://github.com/nez/papel"
