@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://nez.github.io',
                 'git_url': 'https://github.com/nez/papel',
                 'lib_path': 'papel'},
-  'syms': {'papel.core': {'papel.core.foo': ('core.html#foo', 'papel/core.py')}}}
+  'syms': {'papel.core': {'papel.core.dl': ('core.html#dl', 'papel/core.py')}}}
