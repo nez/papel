@@ -1,0 +1,4 @@
+#!/bin/bash
+
+nbdev_export
+pip install -e .
